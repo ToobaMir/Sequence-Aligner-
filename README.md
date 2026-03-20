@@ -1,8 +1,6 @@
 # 🧬 Sequence Aligner
 
-A desktop sequence alignment tool built with Python, Biopython, and Tkinter. Supports pairwise and multiple sequence alignment with a simple GUI.
-
-Sequence alignment is the process of arranging two or more DNA or protein sequences to identify regions of similarity, which can reveal evolutionary relationships or shared biological functions between organisms. This tool automates that process by using well known algorithms like Needleman-Wunsch and Smith-Waterman, which work by scoring matches, mismatches, and gaps to find the most optimal way to line up the sequences. 
+A desktop sequence alignment tool built with Python, Biopython, and Tkinter. Supports pairwise and multiple sequence alignment with a simple GUI. Sequence alignment is the process of arranging two or more DNA or protein sequences to identify regions of similarity, which can reveal evolutionary relationships or shared biological functions between organisms. This tool automates that process by using well known algorithms like Needleman-Wunsch and Smith-Waterman, which work by scoring matches, mismatches, and gaps to find the most optimal way to line up the sequences. 
 ---
 
 ## Features
@@ -37,7 +35,7 @@ Tkinter comes included with Python so no separate install is needed for that.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/your-username/sequence-aligner.git
+git clone https://github.com/ToobaMir/sequence-aligner.git
 cd sequence-aligner
 ```
 
